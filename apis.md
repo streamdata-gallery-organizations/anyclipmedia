@@ -1,16 +1,16 @@
 ---
 name: AnyClipMedia
 x-slug: anyclipmedia
-description: "AnyClip is a leading technological platform for video monetization and
+description: AnyClip is a leading technological platform for video monetization and
   personalization.    AnyClip has curated a rich video content library made up of
-  a million clips from the world\u2019s leading premium content owners, film studios,
-  and sports teams. Thro..."
+  a million clips from the worlds leading premium content owners, film studios, and
+  sports teams. Thro...
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/341-anyclipmedia.jpg
 x-kinRank: "7"
 x-alexaRank: "683453"
 tags: AnyClipMedia
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/anyclipmedia/master/_listings/anyclipmedia/apis.md
 specificationVersion: "0.14"
 apis: []
